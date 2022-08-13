@@ -2,6 +2,8 @@ import java.util.Scanner;
 
 public class CustomScanner {
 
+    // little change
+
 /*    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj imie swe prosze");
