@@ -26,6 +26,6 @@ public class CustomScanner {
 
         // comment for feature
         // change
-
+        // comment
     }
 }
