@@ -11,6 +11,8 @@ public class CustomScanner {
         System.out.println("Czesc " + name + "!");
     }*/
 
+    // little change (master)
+
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the first number");
