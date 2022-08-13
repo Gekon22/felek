@@ -17,7 +17,7 @@ public class CustomScanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the first number please");
         int firstNumber = scanner.nextInt();
-        System.out.println("Enter the second number");
+        System.out.println("Enter the second number please");
         int secondNumber = scanner.nextInt();
         int thirdNumber = firstNumber + secondNumber;
         System.out.println("And the result of adding these numbers is: " + thirdNumber);
