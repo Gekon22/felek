@@ -23,6 +23,7 @@ public class CustomScanner {
         System.out.println("And the result of adding these numbers is: " + thirdNumber);
 
         // comment for feature
+        // the change
 
     }
 }
