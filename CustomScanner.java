@@ -22,7 +22,7 @@ public class CustomScanner {
         int thirdNumber = firstNumber + secondNumber;
         System.out.println("And the result of adding these numbers is: " + thirdNumber);
 
-        
+        // comment for feature
 
     }
 }
