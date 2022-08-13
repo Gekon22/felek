@@ -20,7 +20,9 @@ public class CustomScanner {
         System.out.println("Enter the second number please");
         int secondNumber = scanner.nextInt();
         int thirdNumber = firstNumber + secondNumber;
-        System.out.println("The result of adding these numbers is: " + thirdNumber);
+
+        System.out.println("The result: " + thirdNumber);
+
 
         // comment for feature
 
