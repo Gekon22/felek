@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class CustomScanner {
 
-    // little change
+    
 
 /*    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -11,7 +11,7 @@ public class CustomScanner {
         System.out.println("Czesc " + name + "!");
     }*/
 
-    // little change (master)
+     
 
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
@@ -22,7 +22,7 @@ public class CustomScanner {
         int thirdNumber = firstNumber + secondNumber;
         System.out.println("And the result of adding these numbers is: " + thirdNumber);
 
-        // little change
+        
 
     }
 }
